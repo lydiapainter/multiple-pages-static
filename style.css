@@ -37,6 +37,15 @@
   font-size: 86px;
 }
 
+.about-hero h1 {
+  font-size: 64px;
+  line-height: 0;
+}
+
+.about-hero h3 {
+  font-size: 18px;
+}
+
 h1,
 h2,
 h3 {
