@@ -28,6 +28,15 @@
   }
 }
 
+.hero {
+  background-color: #f9f7fe;
+  padding: 160px 20px;
+}
+
+.hero h1 {
+  font-size: 86px;
+}
+
 h1,
 h2,
 h3 {
